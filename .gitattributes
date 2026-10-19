@@ -1,0 +1,2 @@
+pset_02/tiny_stories.py filter=lfs diff=lfs merge=lfs -text
+pset_02/weights/TinyStories-1Layer-21M/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
